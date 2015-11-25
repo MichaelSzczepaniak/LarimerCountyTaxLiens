@@ -7,7 +7,7 @@ This purpose of this project is to confirm or disprove three hypothesis describe
 Having been a tax lien investor since 2004, I observed what I would consider 'irrational' behavior by the more 'deep-pocketed' investors.  By 'deep-pocketed' (DP), I mean those that partake in premium bidding (which will be explained later in this document).  From these observation, I formed 3 hypotheses:
 
 1. _On average, investors who partake in premium bidding lose money more frequently then they make money._
-2. _On average, investors who partake in premium bidding lose more more money than they make from premium bidding._
+2. _On average, investors who partake in premium bidding lose more money than they make from premium bidding._
      - Note: This hypothesis may be true or false regardless of whether the first hypothesis is true or false.
 3. _On average, the amount of risk an investors takes on through premium bidding is inversely proportional to the base amount of the lien._
      - In other words, the higher the amount of the lien, the less risk an investor is typically willing to take on where risk is measured in the number of months needed to break even (abbreviated as M2BE).
